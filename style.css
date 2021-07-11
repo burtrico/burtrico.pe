@@ -1,10 +1,15 @@
+html {
+    min-height: 100%;
+}
+
 body {
-    background-image: linear-gradient(rgb(19, 170, 19), rgb(134, 33, 206), rgb(59, 59, 255));
-  } 
+background-image: linear-gradient(rgb(65, 211, 35), rgb(241, 230, 83), rgb(164, 75, 216));
+} 
 
 
 h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-shadow: 2px 2px 4px black;
 }
 
 .center {
