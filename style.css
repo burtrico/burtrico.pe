@@ -1,6 +1,7 @@
 body {
-    background-image: linear-gradient(green, indigo, blue);
+    background-image: linear-gradient(rgb(19, 170, 19), rgb(134, 33, 206), rgb(59, 59, 255));
   } 
+
 
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -11,9 +12,4 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-  }
-
-.div1 {
-    border: 5px outset rgb(117, 203, 206);
-    text-align: center;
 }
