@@ -1,3 +1,19 @@
 body {
-    background: blue;
+    background-image: linear-gradient(green, indigo, blue);
   } 
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.div1 {
+    border: 5px outset rgb(117, 203, 206);
+    text-align: center;
+}
