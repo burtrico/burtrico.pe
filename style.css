@@ -1,9 +1,11 @@
 html {
     min-height: 100%;
+    
 }
 
 body {
-background-image: linear-gradient(rgb(65, 211, 35), rgb(241, 230, 83), rgb(164, 75, 216));
+    background-image: radial-gradient( #EAAA00, #003057);
+    margin-left: 10%;
 } 
 
 
@@ -18,8 +20,8 @@ h1 {
 
 .center {
     display: block;
-    margin-left: 10%;
-    margin-right: 90%;
+    margin-left: 25%;
+    margin-right: 75%;
     width: 25%;
 }
 
@@ -29,4 +31,5 @@ a {
 
 .und {
     text-decoration: underline;
+    
 }
