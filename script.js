@@ -1,3 +1,10 @@
+var tag = document.createElement("p");
+var text = document.createTextNode("Licenses: Professional Engineer Louisiana 44330");
+tag.appendChild(text);
+var element = document.getElementById("div1");
+element.appendChild(tag);
+
+/*
 const h2 = document.createElement('h2');
 //h2.textContent = "This content added by JavaScript"; 
 
@@ -36,6 +43,8 @@ child1.parentNode.insertBefore(text1, child1);
 const text2 = document.createTextNode('Twitter: ');
 const child2 = document.getElementById('a2');
 child2.parentNode.insertBefore(text2, child2);
+
+*/
 
 
 
